@@ -1,6 +1,9 @@
 # qb-spawn
 Spawn Selector for QB-Core Framework :eagle:
 
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp) 
 # License
 
     QBCore Framework
